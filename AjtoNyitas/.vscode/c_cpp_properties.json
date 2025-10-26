@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\EdgeReversal\\Edge-Reversal\\ThirdParty\\SDL3\\include"
+                "C:\\SDL\\include"
             ],
             "defines": [
                 "_DEBUG",
